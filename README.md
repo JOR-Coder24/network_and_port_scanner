@@ -3,7 +3,6 @@
 This Python script is a network scanner that performs ARP pinging to discover active hosts, detects their operating systems, looks up MAC address vendors, and optionally scans specified ports to identify open services.
 
 Features:
-
 ARP Ping Scan: Finds active devices in a specified IP range.
 Operating System Detection: Attempts to determine the OS of each device based on IP TTL values.
 Vendor Lookup: Retrieves the manufacturer of a device based on its MAC address.
